@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @itzaaditya
+- 👋 Hi, I’m @aaditya27
 - 👀 I’m interested in learning various software development technologies 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me: agarwal.aaditya2765@gmail.com
-- 😄 Pronouns: He/Him
 
 <!---
 itzaaditya/itzaaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
